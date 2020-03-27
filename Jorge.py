@@ -1,3 +1,2 @@
-a=input()
-print("Welcome",a)
-print("Welcome to CS")
+name=input()
+print("Welcome" + str(name) + "Welcome to CS")
