@@ -1,2 +1,3 @@
 a=input()
-print(a)
+print("Welcome",a)
+print("Welcome to CS")
